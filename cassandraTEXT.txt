@@ -2,27 +2,26 @@ CAS_01
 Cassandra เธอได้รับภาระกิจไปประจำการฐานทัพแห่งใหม่
 วันที่ร้อนเป็นพิเศษ 
 ด้วยความร้อนจึงทำให้เธออ่อนล้า
-Cassandra She has been assigned to a new military base.
-extra hot day
-The heat made her tired.
+Cassandra has been assigned to a new military base
+Weather was very hot today
+The heat saps her strenght
 
 แต่ทว่า ในท้องฟ้ามีบางอย่างมองเธอจากระยะไกล
-However, in the sky, something was watching her from a distance.
+However, in the sky, remote watcher was tracking her
 
 Neuroi หลุดรอดการตรวจจับมาได้
 มันหลบซ่อนตัวมาในเมฆ
 โชคไม่ดีของ Cassandra 
-Neuroi escape detection
-It hides in the clouds
-Cassandra's bad luck
+Stealth Neuroi hides in the clouds
+It's a bad day for Cassandra
 
 มีวัตถุบางอย่างถูกทิ้งออกมาจากneuroi สิ่งนั้นพุ่งออกไปเร็วจนน่าตกใจ
-Some object was dropped from the neuroi. The thing flew away at a startling speed.
+Neuroi dripped a small object. It accelerated at startling rate
 
 Cassandra : วันนี้ร้อนจัง บินต่อไม่ไหวแล้ว พักซักหน่อยแล้วค่อยบินต่อดีกว่า
   	บริเวณนี้ปลอดภัยไม่มีneuroi เพราะมันไกลจากชายแดน
-Cassandra : It's hot today. Can't continue flying Take a break and then continue flying.
-   This area is safe, there are no neuroi. Because it's far from the border
+Cassandra : It's so hot I can't fly any more. I'll return to patrol after a break.
+Should be safe, I am too far from the border to stumble upon Neuroi.
 
 ----------------------------------------
 CAS_02
